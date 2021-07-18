@@ -1,0 +1,9 @@
+{
+	"branches": [
+		"release"
+	],
+	"baseBranch": "release",
+	"publishConfig": {
+		"pkgRoot": "./dist"
+	}
+}
